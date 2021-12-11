@@ -1,0 +1,44 @@
+Valor  Códigos  Contiene
+0      0        pieza sólida
+
+1-4    1-4      un lateral 
+5-8    5-8      dos lados
+9-12   9-C      tres lados
+13     D        cuatro lados
+40-41  e-f      dos opuestos
+
+14-17  E-H      un lado
+18-21  I-L      dos lados
+22-25  M-P      tres lados
+26     Q        cuatro lados
+42-43  g-h      dos opuestos
+
+27-30  R-U      un lado
+31-34  V-Y      dos lados
+35-38  Z-c      tres lados
+39     d        cuatro lados
+44-45  i-j      dos opuestos 
+
+un lado
+R-D-L-U
+
+dos lados
+UR-RD-DL-LU
+
+tres lados
+LUR-URD-RDL-DLU
+
+dobles
+UD-LR
+
+Domina Desierto
+Agua-Bosque-Pasto
+
+Domina Pasto
+Agua-Bosque-Desierto
+
+Domina Bosque
+Agua-Pasto-Desierto
+
+Domina Agua
+Desierto-Bosque-Pasto
